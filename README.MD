@@ -6,9 +6,8 @@ I'm a freelance software engineer [Sakar Solutions](https://sakarsolutions.nl/) 
 
 - 🌍 I'm a Developer that like develop also in free time
 - ❤ Like to experiment with new technology
-- 🌱 I’m currently learning everything 😋
-- 🥅 Goals: Contribute to Open Source projects
-- ⚡ Like the play games and going to the gym
+- 🥅 Goals: Contributing & Supporting to Open Source projects
+- ⚡ Interests Gems & Photography combining with software engineering
 
 ### Tech Stack & Tools 🛠
 
