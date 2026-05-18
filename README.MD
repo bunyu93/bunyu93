@@ -29,7 +29,3 @@ I'm a freelance software engineer [Sakar Solutions](https://sakarsolutions.nl/) 
 <img align="left" alt="Visual Studio" width="26px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/Microsoft-Visual-Studio-icon.png" />
 
 <br/>
-
-### Github Stats 📊
-
-[![Bunyamin's Github Stats](https://github-readme-stats.vercel.app/api?username=bunyu93&count_private=true&theme=default&show_icons=true)](https://github.com/bunyu93)
